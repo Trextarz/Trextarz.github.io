@@ -666,6 +666,7 @@ section {
 
 .contact label {
   font-family: 'Space Mono', monospace;
+  color: #305fa3;
 }
 .contact .info {
   padding: 30px;
@@ -676,7 +677,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #305fa3;
   float: left;
   width: 44px;
   height: 44px;
@@ -822,7 +823,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #149ddd;
+  background: #305fa3;
   border: 0;
   padding: 10px 24px;
   color: #fff;
